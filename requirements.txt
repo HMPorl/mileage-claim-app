@@ -1,0 +1,17 @@
+# Mileage Claim App Dependencies
+
+# Web Framework
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Future Excel Export Capability
+openpyxl>=3.1.0
+
+# Future Email Integration (SendGrid priority)
+sendgrid>=6.10.0
+requests>=2.31.0
+
+# Utilities
+python-dotenv>=1.0.0
